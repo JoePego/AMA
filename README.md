@@ -1,9 +1,7 @@
-<<<<<<< HEAD
 # 🚀 AMA
-=======
 # React + Vite
 
-Welcome to My UI Project! This is a modern, high-performance web application built using React with Vite as the frontend framework and Node.js for the backend. This project is designed to deliver a seamless user experience with a fast, lightweight, and scalable architecture.
+Welcome to AMA Project! This is a modern, high-performance web application built using React with Vite as the frontend framework and Node.js for the backend. This project is designed to deliver a seamless user experience with a fast, lightweight, and scalable architecture.
 
 🎯 Features :
 
@@ -52,4 +50,3 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
->>>>>>> 939b570 (Initial commit)
